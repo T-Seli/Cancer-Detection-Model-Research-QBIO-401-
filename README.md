@@ -7,4 +7,4 @@ This repository contains an academic project focused on implementing and testing
 - **Data:** All the datasets used for the project.
 - **Notebooks:** The notebooks that were used for the machine learning implementation.
 
-You can find the research paper that served as the basis for this project [here](#https://www.nature.com/articles/s41467-024-46043-y).
+You can find the research paper that served as the basis for this project [here](https://www.nature.com/articles/s41467-024-46043-y).
